@@ -11,8 +11,6 @@ This Learning Path starts with an in-depth explanation of what hacking and penet
 By the end of this Learning Path, you'll have the knowledge and skills you need to invade a system and identify all its vulnerabilities
 
 
-By the end of this course, you will have the skills you need to confidently build your own models using Python.
-
 ## What you will learn
 * Build and analyze Metasploit modules in Ruby
 * Integrate Metasploit with other penetration testing tools
