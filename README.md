@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Improving-your-Penetetration-Testing-Skills.svg)](https://github.com/TrainingByPackt/Improving-your-Penetetration-Testing-Skills/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Improving-your-Penetetration-Testing-Skills.svg)](https://github.com/TrainingByPackt/Improving-your-Penetetration-Testing-Skills/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Improving-your-Penetetration-Testing-Skills.svg)](https://github.com/TrainingByPackt/Improving-your-Penetetration-Testing-Skills/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Improving-your-Penetetration-Testing-Skills/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/TrainingByPackt/Improving-your-Penetration-Testing-Skills/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/TrainingByPackt/Improving-your-Penetration-Testing-Skills/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/TrainingByPackt/Improving-your-Penetration-Testing-Skills/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Improving-your-Penetration-Testing-Skills/pulls)
 
 # Improving your Penetration Testing Skills
 Penetration testing or ethical hacking is a legal and foolproof way to identify vulnerabilities in your system. With thorough penetration testing, you can secure your system against the majority of threats.
