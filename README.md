@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/improving-your-penetration-testing-skills/9781838646073)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills/stargazers)
