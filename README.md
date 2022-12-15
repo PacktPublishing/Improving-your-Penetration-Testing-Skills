@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781838646073)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Improving-your-Penetration-Testing-Skills.svg)](https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills/stargazers)
